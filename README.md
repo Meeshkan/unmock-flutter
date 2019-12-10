@@ -1,6 +1,8 @@
-# unmock-flutter
+# [Unmock](https://www.unmock.io/) (Flutter SDK)
 
-The great and mighty unmock flutter repo will live here!
+[![Chat on Gitter](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/unmock/community)
+
+The great and mighty Unmock Flutter repo will live here!
 
 ## Contributing
 
